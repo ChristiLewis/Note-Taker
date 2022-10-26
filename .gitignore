@@ -2,7 +2,8 @@ node_modules
 package-lock.json
 .vscode
 .DS_Store
-
+.env
+NPM i -RUN IN CLI TO BRING BACK NODE MODS.txt
 
 # Logs
 logs
